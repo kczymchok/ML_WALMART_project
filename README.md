@@ -53,8 +53,3 @@ After preprocessing the data and training the model, we evaluated its performanc
 ## Conclusion
 The model provides a good baseline for predicting weekly sales at Walmart stores. By analyzing various features and their impact on sales, we can derive actionable insights to optimize store operations and marketing strategies.
 
-Project Files
-Data: The dataset used for this project is located in the data folder.
-Notebook: The Jupyter Notebook containing the entire analysis and model building process is in the notebooks folder.
-Scripts: The scripts for data preprocessing, model training, and evaluation are available in the scripts folder.
-Results: Visualizations and results are stored in the results folder.
